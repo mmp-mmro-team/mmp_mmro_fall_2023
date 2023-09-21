@@ -53,5 +53,5 @@
 | :---: | :---: | --- | --- | --- |
 | 7 сентября  | Семинар 1 | Введение в курс. Pandas. Разведочный анализ данных | [Ноутбук с семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar1_pandas.ipynb)  | [Легкая домашка на пандас](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Homework1/numpy_pandas_matplotlib_2023.ipynb)   |
 | 14 сентября  | Семинар 2 | Метрическая парадигма машинного обучения. KNN. Проблемы метода и практические применения | [Конспект семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar_2_KNN.pdf) |  ¯\\\_(ツ)\_/¯ |
-| 21 сентября  | Семинар 3 | Функциональные парадигмы машинного обучения. Линейная регрессия. Градиентный спуск. Sklearn. | [Ноутбук семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar_2_KNN.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 21 сентября  | Семинар 3 | Функциональные парадигмы машинного обучения. Линейная регрессия. Градиентный спуск. Sklearn. | [Ноутбук семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar_3_linregr_msu.ipynb) |  ¯\\\_(ツ)\_/¯ |
 

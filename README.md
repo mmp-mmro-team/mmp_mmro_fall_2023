@@ -23,6 +23,8 @@
   * [Курс ММРО 20/21, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020)
   * [Курс ММРО 21/22, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021)
   * [Курс ММРО 22/23, осень](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022)
+
+## Форма обратной связи: [ссылка](https://forms.gle/UF1fJX11YNrbMxvu8)
 # Правила выставления оценок
 
 :white_check_mark: **По этому курсу (ММРО) в конце семестра будет экзамен**

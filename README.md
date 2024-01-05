@@ -63,5 +63,5 @@
 | 26 октября | Семинар 8 | Метрики качества классификации, задачи на площади под кривыми | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar_8_classification_metrics.pdf)|  [Дз на классификацию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Homework3/hw_mmro_practice_3.ipynb) |
 | 2 ноября | Семинар 9 | Разложение ошибки на смещение и разброс | [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf )|  ¯\\\_(ツ)\_/¯ |
 | 9 ноября | Семинар 10 | Вывод критериев информативности для деревьев | [Теория](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/Seminar_10_trees.pdf) [Практика](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/sem10-trees_practice.ipynb)|  ¯\\\_(ツ)\_/¯ |
-| 16 ноября | Семинар 11 | Ещё раз про градиентный бустинг | [Констпект]()|  ¯\\\_(ツ)\_/¯ |
+| 16 ноября | Семинар 11 | Ещё раз про градиентный бустинг | [Констпект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2023/blob/main/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82_grad_boosting.pdf)|  ¯\\\_(ツ)\_/¯ |
 | 23 ноября | Семинар 12 | Почему градиентный бустинг так устроен | [Констпект](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part1.pdf)|  ¯\\\_(ツ)\_/¯ |
